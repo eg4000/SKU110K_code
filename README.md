@@ -1,3 +1,5 @@
+**Archived, please see https://github.com/eg4000/SKU110K_CVPR19
+
 This is *NOT* the project web page. 
 
 *Code has not been tested*
